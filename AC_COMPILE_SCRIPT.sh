@@ -5,7 +5,7 @@ TARGET_SIM_LIST="Microjet Twinstar_energyadaptive Umarim_Lite Bixler MentorEnerg
 TARGET_NPS_LIST="Bixler Bumblebee_Quad LadyLisa MentorEnergy Minion_Lia Quad_Elle0 Quad_LisaMX Quad_LisaM_2 Quad_Navstik ardrone2 bebop2 krooz_quad"
 
 # CAUTION: change this to your paparazzi directory path!
-PAPARAZZI_DIR="/home/joezie/Drones/paparazzi_modified_code"
+PAPARAZZI_DIR="/home/joezie/Drones/SUNY-BU-Software-Systems-Research-Group/paparazzi"
 
 #Compile all autopilot targets
 for ac in $TARGET_AP_LIST; do

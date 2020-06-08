@@ -45,8 +45,8 @@ ofstream writeToFile;
 
 
 // CAUTION: please modify this path to the path on your computer
-string debugFileName = "/home/joezie/Drones/paparazzi_code_analysis/myplugins/output.txt";
-string dictFileName = "/home/joezie/Drones/paparazzi_code_analysis/myplugins/dict_info.txt";
+string debugFileName = "/home/joezie/Drones/SUNY-BU-Software-Systems-Research-Group/PBF-Detector/plugin/output.txt";
+string dictFileName = "/home/joezie/Drones/SUNY-BU-Software-Systems-Research-Group/PBF-Detector/plugin/dict_info.txt";
 /* global variables end */
 
 
