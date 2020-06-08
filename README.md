@@ -7,4 +7,5 @@
 * Directory "plugin": clang plugin implementation of bounding function dictionary builder
 
 * AC_COMPILE_SCRIPT.sh: a script to simulate GUI compilation on target 'ap', 'sim', and 'nps' on corresponding aircrafts
+	- Before running AC_COMPILE_SCRIPT.sh, make sure that you've run "make" under repository SUNY-BU-Software-Systems-Research-Group/paparazzi.
 
